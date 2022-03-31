@@ -1,0 +1,14 @@
+#calculadora{
+  width: 30%;
+  margin: 5% auto;
+  border: beige;
+  border-radius: 4px;
+  background: #c7dfcd;
+}
+#dashboard{
+  border-radius: 5px;
+  border: 2px solid teal;
+  background: aliceblue;
+  text-align: end;
+  padding: 10% 2% 2% 10%;
+}

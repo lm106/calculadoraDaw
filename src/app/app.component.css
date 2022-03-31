@@ -1,0 +1,15 @@
+.titulo{
+  text-align: center;
+  color: navy;
+  font-family: Bahnschrift;
+  background: lightsteelblue;
+  width: 25%;
+  margin: 0% auto;
+  border-radius: 4px;
+}
+
+/*
+ color: lightseagreen;
+ color: palegreen, teal;
+ color: aliceblue; //Este para la pantallita
+ */
