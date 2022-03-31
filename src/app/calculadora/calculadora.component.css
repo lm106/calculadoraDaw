@@ -1,5 +1,5 @@
 #calculadora{
-  width: 30%;
+  width: 25%;
   margin: 5% auto;
   border: beige;
   border-radius: 4px;
@@ -11,4 +11,34 @@
   background: aliceblue;
   text-align: end;
   padding: 10% 2% 2% 10%;
+  margin-bottom: 4px;
+}
+input[type="button"] {
+  background: teal;
+  margin: 1px;
+  border-radius: 3px;
+  border: none;
+  padding: 15px 30px;
+  color: aliceblue;
+}
+#number {
+  text-align: center;
+  margin: 0 auto;
+}
+#operacion {
+  float: right;
+  width: 25%;
+}
+.operacion{
+  display: list-item;
+}
+#menos{
+
+  padding:15px 31.4px;
+}
+#igual {
+  width: 95%;
+  margin-left: 7.3px;
+  text-align: center;
+  margin-bottom: 4px;
 }

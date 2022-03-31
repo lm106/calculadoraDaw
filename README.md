@@ -1,3 +1,11 @@
+# Descripción de Calculadora DAW
+
+Para realizar este trabajo no he necesitado documentación externa salvo la del propio framework. 
+No tuve ninguna dificultad para realizarla. Como ya conocía la estructura de un framework como Angular, 
+no me resulto complicado a la hora de implementar las funciones necesarias para hacer la calculadora. 
+
+
+####################################################################################################
 # CalculadoraDaw
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.6.
